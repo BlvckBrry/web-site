@@ -1,0 +1,6 @@
+2024-05-12T11:06:36+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2024-05-12T11:06:36+00:00 INFO Send weekly emails to darthocun@gmail.com
+2024-05-12T11:06:36+00:00 INFO Total Revenue: <span class="woocommerce-Price-amount amount"><bdi>0,00<span class="woocommerce-Price-currencySymbol">&#8372;</span></bdi></span>
+2024-05-12T16:54:30+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2024-05-12T16:54:30+00:00 INFO Only for thank you page
+2024-05-12T16:54:30+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
